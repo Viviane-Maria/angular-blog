@@ -9,6 +9,10 @@ color: #fff;
   display: flex;
   justify-content: center;
   }
+.container__menu__title > p {
+  text-align: center;
+  margin-bottom: 2rem;
+}
 .container__menu__title > hr {
     margin-top: 20px;
     margin-bottom: 20px;
